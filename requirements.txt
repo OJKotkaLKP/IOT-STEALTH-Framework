@@ -1,0 +1,7 @@
+scapy==2.5.0
+paramiko==3.4.0
+python-nmap==0.7.1
+pybluez==0.23
+requests==2.31.0
+cryptography==42.0.5
+prettytable==3.10.0
